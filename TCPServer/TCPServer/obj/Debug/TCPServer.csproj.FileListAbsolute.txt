@@ -18,3 +18,17 @@ E:\pendrive\Szkoła\Aplikacje serwerowe\Koszałka\lekcja06\TCPServer\TCPServer\o
 E:\pendrive\Szkoła\Aplikacje serwerowe\Koszałka\lekcja06\TCPServer\TCPServer\obj\Debug\TCPServer.csproj.CoreCompileInputs.cache
 E:\pendrive\Szkoła\Aplikacje serwerowe\Koszałka\lekcja06\TCPServer\TCPServer\obj\Debug\TCPServer.exe
 E:\pendrive\Szkoła\Aplikacje serwerowe\Koszałka\lekcja06\TCPServer\TCPServer\obj\Debug\TCPServer.pdb
+E:\gits\communicator\TCPServer\TCPServer\bin\Debug\TCPServer.exe.config
+E:\gits\communicator\TCPServer\TCPServer\bin\Debug\TCPServer.exe
+E:\gits\communicator\TCPServer\TCPServer\bin\Debug\TCPServer.pdb
+E:\gits\communicator\TCPServer\TCPServer\bin\Debug\Newtonsoft.Json.dll
+E:\gits\communicator\TCPServer\TCPServer\bin\Debug\Newtonsoft.Json.pdb
+E:\gits\communicator\TCPServer\TCPServer\bin\Debug\Newtonsoft.Json.xml
+E:\gits\communicator\TCPServer\TCPServer\obj\Debug\TCPServer.csprojAssemblyReference.cache
+E:\gits\communicator\TCPServer\TCPServer\obj\Debug\TCPServer.MainWindow.resources
+E:\gits\communicator\TCPServer\TCPServer\obj\Debug\TCPServer.Properties.Resources.resources
+E:\gits\communicator\TCPServer\TCPServer\obj\Debug\TCPServer.csproj.GenerateResource.cache
+E:\gits\communicator\TCPServer\TCPServer\obj\Debug\TCPServer.csproj.CoreCompileInputs.cache
+E:\gits\communicator\TCPServer\TCPServer\obj\Debug\TCPServer.csproj.CopyComplete
+E:\gits\communicator\TCPServer\TCPServer\obj\Debug\TCPServer.exe
+E:\gits\communicator\TCPServer\TCPServer\obj\Debug\TCPServer.pdb

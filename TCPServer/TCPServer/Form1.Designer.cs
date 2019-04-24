@@ -32,13 +32,12 @@
             this.tAddress = new System.Windows.Forms.TextBox();
             this.lPort = new System.Windows.Forms.Label();
             this.numPort = new System.Windows.Forms.NumericUpDown();
-            this.lbServer = new System.Windows.Forms.ListBox();
             this.bStart = new System.Windows.Forms.Button();
             this.bStop = new System.Windows.Forms.Button();
             this.bwConnection = new System.ComponentModel.BackgroundWorker();
             this.tbChatInput = new System.Windows.Forms.TextBox();
             this.bChatSubmit = new System.Windows.Forms.Button();
-            this.bwMessages = new System.ComponentModel.BackgroundWorker();
+            this.wbServer = new System.Windows.Forms.WebBrowser();
             ((System.ComponentModel.ISupportInitialize)(this.numPort)).BeginInit();
             this.SuspendLayout();
             // 
@@ -89,14 +88,6 @@
             0,
             0});
             // 
-            // lbServer
-            // 
-            this.lbServer.FormattingEnabled = true;
-            this.lbServer.Location = new System.Drawing.Point(28, 67);
-            this.lbServer.Name = "lbServer";
-            this.lbServer.Size = new System.Drawing.Size(533, 173);
-            this.lbServer.TabIndex = 4;
-            // 
             // bStart
             // 
             this.bStart.Location = new System.Drawing.Point(586, 76);
@@ -142,21 +133,24 @@
             this.bChatSubmit.UseVisualStyleBackColor = true;
             this.bChatSubmit.Click += new System.EventHandler(this.bChatSubmit_Click);
             // 
-            // bwMessages
+            // wbServer
             // 
-            this.bwMessages.WorkerSupportsCancellation = true;
-            this.bwMessages.DoWork += new System.ComponentModel.DoWorkEventHandler(this.bwMessages_DoWork);
+            this.wbServer.Location = new System.Drawing.Point(28, 47);
+            this.wbServer.MinimumSize = new System.Drawing.Size(20, 20);
+            this.wbServer.Name = "wbServer";
+            this.wbServer.Size = new System.Drawing.Size(533, 200);
+            this.wbServer.TabIndex = 10;
             // 
             // MainWindow
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.wbServer);
             this.Controls.Add(this.bChatSubmit);
             this.Controls.Add(this.tbChatInput);
             this.Controls.Add(this.bStop);
             this.Controls.Add(this.bStart);
-            this.Controls.Add(this.lbServer);
             this.Controls.Add(this.numPort);
             this.Controls.Add(this.lPort);
             this.Controls.Add(this.tAddress);
@@ -177,13 +171,12 @@
         private System.Windows.Forms.TextBox tAddress;
         private System.Windows.Forms.Label lPort;
         private System.Windows.Forms.NumericUpDown numPort;
-        private System.Windows.Forms.ListBox lbServer;
         private System.Windows.Forms.Button bStart;
         private System.Windows.Forms.Button bStop;
         private System.ComponentModel.BackgroundWorker bwConnection;
         private System.Windows.Forms.TextBox tbChatInput;
         private System.Windows.Forms.Button bChatSubmit;
-        private System.ComponentModel.BackgroundWorker bwMessages;
+        private System.Windows.Forms.WebBrowser wbServer;
     }
 }
 
