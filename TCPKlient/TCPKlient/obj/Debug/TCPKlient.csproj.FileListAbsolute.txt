@@ -1,0 +1,14 @@
+C:\Users\Zielonka Michał\source\repos\TCPKlient\TCPKlient\bin\Debug\TCPKlient.exe.config
+C:\Users\Zielonka Michał\source\repos\TCPKlient\TCPKlient\bin\Debug\TCPKlient.exe
+C:\Users\Zielonka Michał\source\repos\TCPKlient\TCPKlient\bin\Debug\TCPKlient.pdb
+C:\Users\Zielonka Michał\source\repos\TCPKlient\TCPKlient\obj\Debug\TCPKlient.Properties.Resources.resources
+C:\Users\Zielonka Michał\source\repos\TCPKlient\TCPKlient\obj\Debug\TCPKlient.csproj.GenerateResource.cache
+C:\Users\Zielonka Michał\source\repos\TCPKlient\TCPKlient\obj\Debug\TCPKlient.csproj.CoreCompileInputs.cache
+C:\Users\Zielonka Michał\source\repos\TCPKlient\TCPKlient\obj\Debug\TCPKlient.exe
+C:\Users\Zielonka Michał\source\repos\TCPKlient\TCPKlient\obj\Debug\TCPKlient.pdb
+C:\Users\Zielonka Michał\source\repos\TCPKlient\TCPKlient\obj\Debug\TCPKlient.TcpKlient.resources
+C:\Users\Zielonka Michał\source\repos\TCPKlient\TCPKlient\obj\Debug\TCPKlient.csprojAssemblyReference.cache
+C:\Users\Zielonka Michał\source\repos\TCPKlient\TCPKlient\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Zielonka Michał\source\repos\TCPKlient\TCPKlient\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Zielonka Michał\source\repos\TCPKlient\TCPKlient\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Zielonka Michał\source\repos\TCPKlient\TCPKlient\obj\Debug\TCPKlient.csproj.CopyComplete
