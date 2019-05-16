@@ -26,7 +26,7 @@ namespace TCPServer.Services
             _binaryWriter = new BinaryWriter(networkStream);
             _backgroundWorker = new BackgroundWorker();
             Username = ((IPEndPoint)client.Client.RemoteEndPoint).ToString();
-            _wbServer.Display($"[{Username}]: Nawiązano połączenie");
+            _wbServer.Display($"<b>[{Username}]</b>: Nawiązano połączenie");
             SetupBackgroundWorker();
         }
 
@@ -65,7 +65,7 @@ namespace TCPServer.Services
             string message;
             while((message=_binaryReader.ReadString())!="END")
             {
-                string resultMessage = $"<b>{Username}</b>: {message}";
+                string resultMessage = message;
                 _wbServer.Display(resultMessage);
                 _tcpServerService.PropagateToEveryone(resultMessage);
             }

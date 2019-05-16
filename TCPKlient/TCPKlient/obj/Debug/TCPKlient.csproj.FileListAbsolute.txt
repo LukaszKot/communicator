@@ -12,3 +12,17 @@ C:\Users\Zielonka Michał\source\repos\TCPKlient\TCPKlient\bin\Debug\Newtonsoft.
 C:\Users\Zielonka Michał\source\repos\TCPKlient\TCPKlient\bin\Debug\Newtonsoft.Json.pdb
 C:\Users\Zielonka Michał\source\repos\TCPKlient\TCPKlient\bin\Debug\Newtonsoft.Json.xml
 C:\Users\Zielonka Michał\source\repos\TCPKlient\TCPKlient\obj\Debug\TCPKlient.csproj.CopyComplete
+E:\gits\communicator\TCPKlient\TCPKlient\bin\Debug\TCPKlient.exe.config
+E:\gits\communicator\TCPKlient\TCPKlient\bin\Debug\TCPKlient.exe
+E:\gits\communicator\TCPKlient\TCPKlient\bin\Debug\TCPKlient.pdb
+E:\gits\communicator\TCPKlient\TCPKlient\bin\Debug\Newtonsoft.Json.dll
+E:\gits\communicator\TCPKlient\TCPKlient\bin\Debug\Newtonsoft.Json.pdb
+E:\gits\communicator\TCPKlient\TCPKlient\bin\Debug\Newtonsoft.Json.xml
+E:\gits\communicator\TCPKlient\TCPKlient\obj\Debug\TCPKlient.csprojAssemblyReference.cache
+E:\gits\communicator\TCPKlient\TCPKlient\obj\Debug\TCPKlient.TcpKlient.resources
+E:\gits\communicator\TCPKlient\TCPKlient\obj\Debug\TCPKlient.Properties.Resources.resources
+E:\gits\communicator\TCPKlient\TCPKlient\obj\Debug\TCPKlient.csproj.GenerateResource.cache
+E:\gits\communicator\TCPKlient\TCPKlient\obj\Debug\TCPKlient.csproj.CoreCompileInputs.cache
+E:\gits\communicator\TCPKlient\TCPKlient\obj\Debug\TCPKlient.csproj.CopyComplete
+E:\gits\communicator\TCPKlient\TCPKlient\obj\Debug\TCPKlient.exe
+E:\gits\communicator\TCPKlient\TCPKlient\obj\Debug\TCPKlient.pdb
