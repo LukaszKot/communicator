@@ -158,7 +158,6 @@
             this.Name = "MainWindow";
             this.Text = "Tcp Server";
             this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.MainWindow_FormClosing);
-            this.Load += new System.EventHandler(this.MainWindow_Load);
             ((System.ComponentModel.ISupportInitialize)(this.numPort)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
